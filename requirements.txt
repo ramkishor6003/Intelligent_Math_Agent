@@ -1,0 +1,7 @@
+langchain-groq
+langgraph
+tavily-python
+sympy
+matplotlib
+numpy
+scipy
