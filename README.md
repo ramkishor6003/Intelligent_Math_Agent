@@ -36,3 +36,12 @@ An interactive Jupyter Notebook that acts as an **Intelligent Math Agent**. Just
 **Made with ❤️ for students who hate rote learning.**
 
 ⭐ Star this repo if it helps you!
+
+
+Project Live Demo
+Project live screen recording:
+
+
+https://github.com/user-attachments/assets/1a5a3d9b-5a35-4410-be28-0ab193e2cbc3
+
+
