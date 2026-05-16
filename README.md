@@ -1,4 +1,4 @@
-#  Intelligent Math Agent
+#  Intelligent Math Agent Grok / Ollama (LLM)
 
 **AI-Powered Mathematics Solver & Tutor** (Jupyter Notebook)
 
