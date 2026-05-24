@@ -4,6 +4,13 @@
 
 An interactive Jupyter Notebook that acts as an **Intelligent Math Agent**. Just type your math problem (in English or Hindi) and get **step-by-step solutions** with clear explanations, LaTeX formatting, and code verification.
 
+
+Project Live Demo
+Project live screen recording:
+
+
+https://github.com/user-attachments/assets/1a5a3d9b-5a35-4410-be28-0ab193e2cbc3
+
 ###  Features
 
 - Step-by-step reasoning & detailed explanations  
@@ -33,15 +40,9 @@ An interactive Jupyter Notebook that acts as an **Intelligent Math Agent**. Just
 - Self-learners who want to **understand** Math
 
 
-**Made with ❤️ for students who hate rote learning.**
+**Made with for students who hate rote learning.**
 
-⭐ Star this repo if it helps you!
+Star this repo if it helps you!
 
-
-Project Live Demo
-Project live screen recording:
-
-
-https://github.com/user-attachments/assets/1a5a3d9b-5a35-4410-be28-0ab193e2cbc3
 
 
